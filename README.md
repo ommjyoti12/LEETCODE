@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/ommjyoti12/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -59,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
