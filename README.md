@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/ommjyoti12/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
