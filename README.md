@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/ommjyoti12/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ommjyoti12/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ommjyoti12/LEETCODE/tree/master/0344-reverse-string) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ommjyoti12/LEETCODE/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
