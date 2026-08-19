@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/ommjyoti12/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [1089-duplicate-zeros](https://github.com/ommjyoti12/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ommjyoti12/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ommjyoti12/LEETCODE/tree/master/0344-reverse-string) |
+| [1089-duplicate-zeros](https://github.com/ommjyoti12/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
