@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ommjyoti12/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ommjyoti12/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/ommjyoti12/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -124,4 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ommjyoti12/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
