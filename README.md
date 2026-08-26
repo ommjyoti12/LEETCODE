@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ommjyoti12/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/ommjyoti12/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ommjyoti12/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ommjyoti12/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ommjyoti12/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ommjyoti12/LEETCODE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ommjyoti12/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ommjyoti12/LEETCODE/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ommjyoti12/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
