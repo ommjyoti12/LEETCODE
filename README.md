@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0525-contiguous-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ommjyoti12/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ommjyoti12/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0941-valid-mountain-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ommjyoti12/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ommjyoti12/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
