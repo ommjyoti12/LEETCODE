@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/ommjyoti12/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ommjyoti12/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/ommjyoti12/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ommjyoti12/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ommjyoti12/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ommjyoti12/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ommjyoti12/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
