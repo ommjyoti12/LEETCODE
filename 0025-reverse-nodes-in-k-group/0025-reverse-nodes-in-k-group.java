@@ -11,13 +11,13 @@
 class Solution {
     public ListNode rev(ListNode s,ListNode e){
         ListNode prev=null;
-        
+        ListNode next;
         ListNode curr=s;
         while(curr!=e){
-            ListNode temp=curr.next;
+             next=curr.next;
             curr.next=prev;
             prev=curr;
-            curr=temp;
+            curr=next;
         }
         return prev;
         
