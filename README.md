@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ommjyoti12/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ommjyoti12/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0941-valid-mountain-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ommjyoti12/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/ommjyoti12/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ommjyoti12/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ommjyoti12/LEETCODE/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/ommjyoti12/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ommjyoti12/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ommjyoti12/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/ommjyoti12/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ommjyoti12/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
