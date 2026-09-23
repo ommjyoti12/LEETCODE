@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ommjyoti12/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ommjyoti12/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ommjyoti12/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ommjyoti12/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ommjyoti12/LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ommjyoti12/LEETCODE/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ommjyoti12/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/ommjyoti12/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ommjyoti12/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ommjyoti12/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
