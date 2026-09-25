@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/ommjyoti12/LEETCODE/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/ommjyoti12/LEETCODE/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ommjyoti12/LEETCODE/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/ommjyoti12/LEETCODE/tree/master/0185-department-top-three-salaries) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ommjyoti12/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/1174-immediate-food-delivery-ii) |
 | [1693-daily-leads-and-partners](https://github.com/ommjyoti12/LEETCODE/tree/master/1693-daily-leads-and-partners) |
