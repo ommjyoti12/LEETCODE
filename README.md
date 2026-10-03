@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ommjyoti12/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ommjyoti12/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ommjyoti12/LEETCODE/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/ommjyoti12/LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ommjyoti12/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ommjyoti12/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/ommjyoti12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ommjyoti12/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ommjyoti12/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -226,8 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ommjyoti12/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ommjyoti12/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0844-backspace-string-compare](https://github.com/ommjyoti12/LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ommjyoti12/LEETCODE/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ommjyoti12/LEETCODE/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
