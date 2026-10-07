@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ommjyoti12/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ommjyoti12/LEETCODE/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ommjyoti12/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ommjyoti12/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ommjyoti12/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/ommjyoti12/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ommjyoti12/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ommjyoti12/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ommjyoti12/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ommjyoti12/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ommjyoti12/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ommjyoti12/LEETCODE/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ommjyoti12/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
