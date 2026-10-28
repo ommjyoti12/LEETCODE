@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ommjyoti12/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ommjyoti12/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/ommjyoti12/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ommjyoti12/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ommjyoti12/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ommjyoti12/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -255,6 +256,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ommjyoti12/LEETCODE/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ommjyoti12/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ommjyoti12/LEETCODE/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ommjyoti12/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
