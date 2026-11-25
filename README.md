@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ommjyoti12/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ommjyoti12/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ommjyoti12/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ommjyoti12/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ommjyoti12/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ommjyoti12/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ommjyoti12/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ommjyoti12/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ommjyoti12/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ommjyoti12/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -300,12 +302,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ommjyoti12/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ommjyoti12/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ommjyoti12/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ommjyoti12/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ommjyoti12/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ommjyoti12/LEETCODE/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ommjyoti12/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ommjyoti12/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ommjyoti12/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ommjyoti12/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ommjyoti12/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
